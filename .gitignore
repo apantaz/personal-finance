@@ -19,4 +19,4 @@ data/database/*
 *.duckdb.wal
 *.db
 .vscode/
-
+.python-version
